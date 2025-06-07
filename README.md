@@ -33,7 +33,7 @@
 
 
 <pre><code>pip install nnfs
-python train.py
+python neural.py
 </code></pre>
 
 <hr>
